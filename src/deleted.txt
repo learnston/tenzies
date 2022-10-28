@@ -1,0 +1,7 @@
+        <div className="text">
+          <h1 className="heading">Tenzies</h1>
+          <h3 className="sub-heading">
+            Roll until all dice are the same. Click each die to freeze it at its
+            current value between rolls.
+          </h3>
+        </div>
